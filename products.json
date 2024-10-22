@@ -1,0 +1,38 @@
+[
+  {
+    "name": "iphone",
+    "price": 154,
+    "featured": false,
+    "company": "apple"
+  },
+  {
+    "name": "galaxy",
+    "price": 154,
+    "featured": false,
+    "company": "samsung"
+  },
+  {
+    "name": "mi 15",
+    "price": 2000,
+    "featured": true,
+    "company": "mi"
+  },
+  {
+    "name": "iphone10",
+    "price": 204,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "ipad",
+    "price": 500,
+    "featured": false,
+    "company": "apple"
+  },
+  {
+    "name": "s23 ultra",
+    "price": 800,
+    "featured": false,
+    "company": "samsung"
+  }
+]
